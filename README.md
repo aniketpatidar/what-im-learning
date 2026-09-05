@@ -5,5 +5,7 @@
 - Prompting (few-shot, chain-of-thought)
 - Retrieval Augmented Generation
 - Vector Embeddings & Databases
-- Agents
 - Model Context Protocol
+- Payload CMS
+- Go and Gin
+- Agentic AI
