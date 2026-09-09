@@ -9,3 +9,4 @@
 - Payload CMS
 - Go and Gin
 - Agentic AI
+- AI workflows and automation
