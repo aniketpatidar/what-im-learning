@@ -7,6 +7,6 @@
 - Vector Embeddings & Databases
 - Model Context Protocol
 - Payload CMS
-- Go and Gin
-- Agentic AI
+- Go and Gin (goroutine)
+- Agentic AI (LangChain, LangGraph and LangSmith)
 - AI workflows and automation
